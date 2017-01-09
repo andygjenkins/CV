@@ -32,8 +32,10 @@ Project | Description | Technologies | Testing
 #### University of Kent (09/2012 to 09/2013)
 - Security & Terrorism, MA, Distinction
 - Masters thesis explored the use of the Internet by terrorist organisations
+
 #### University of Leicester (09/2009 to 07/2012)
 - International Relations, BA, 1st Class
+
 ## Experience
 **Douglas-Westwood Research** (January 2016 to September 2016)    
 *Research Team Leader*  
