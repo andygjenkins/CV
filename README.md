@@ -5,7 +5,7 @@ Ex Oil & Gas Consultant - opting to give up the powerpoint and spreadsheets and 
 ## Skills
 #### Learning 
 Fast and active learner, who can quickly absorb and retain new information. The Makers Academy syllabus emphasised language and framework agnosticism, pushing us all to further develop the ability to quickly acquire new skills.
-I'm passionate about learning, both in my own life and in encouraging others to pick up new skills and knowledge. In my previous role at Douglas-Westwood, I created and implemented a company-wide training scheme for new-hires and current staff, negotiating with company directors for "personal development" time.  
+I'm passionate about learning, both in my own life and in encouraging others to pick up new skills and knowledge. In my previous role at Douglas-Westwood, I created and implemented a company-wide training scheme for new-hires and current staff, negotiating with company directors for weekly employee development time.  
 #### Problem Solving
 Working in oil & gas consulting I gained valuable experience in problem solving and analytical analysis. Client and stakeholder requirements often changed quickly and expectedly. In this environment, I learnt how to effectively assess and break down problems into order to meet challenging timeframes and provide insightful deliverables. 
 #### Communication
