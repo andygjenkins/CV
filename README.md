@@ -7,7 +7,7 @@ Ex Oil & Gas Consultant - opting to give up the powerpoint and spreadsheets and 
 Fast and active learner, who can quickly absorb and retain new information. The Makers Academy syllabus emphasised language and framework agnosticism, pushing us all to further develop the ability to quickly acquire new skills.
 I'm passionate about learning, both in my own life and in encouraging others to pick up new skills and knowledge. In my previous role at Douglas-Westwood, I created and implemented a company-wide training scheme for new-hires and current staff, negotiating with company directors for weekly employee development time.  
 #### Problem Solving
-Working in oil & gas consulting I gained valuable experience in problem solving and analytical analysis. Client and stakeholder requirements often changed quickly and expectedly. In this environment, I learnt how to effectively assess and break down problems into order to meet challenging timeframes and provide insightful deliverables. 
+Working in oil & gas consulting I gained valuable experience in problem solving and analytical analysis. Client and stakeholder requirements often changed quickly and unexpectedly. In this environment, I learnt how to effectively assess and break down problems into order to meet challenging timeframes and provide insightful deliverables. 
 #### Communication
 Communication has always been an integral part of previous roles and as a developer, I believe the ability to clearly communicate ideas and positions to clients and colleagues is especially important.
 In oil & gas, I dealt with clients and colleagues across timezones and continents, this taught me the importance of understanding the differences in cross-cultural communication and approaches.      
@@ -42,6 +42,7 @@ Project | Description | Technologies | Testing
 - Coordination and review of all off-the-shelf reports
 - Oversight of company data collation and modelling  
 - Creation and implementation of company-wide training scheme
+- Line management of a team of researchers and analysts
 
 **Douglas-Westwood Consulting** (September 2013 to January 2016)    
 *Researcher to Analyst*  
